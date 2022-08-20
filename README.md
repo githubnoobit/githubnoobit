@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @githubnoobit
-- 👀 I’m interested in learning new things.
+- 👀 I’m interested in coding.
 - 🌱 I’m currently learning DSA + JAVA.
 - 📫 if you want to reach me plz Email on rajnish0030@gmail.com
 
